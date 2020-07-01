@@ -1,0 +1,208 @@
+body{
+    margin: 0px;
+    font-family: 'poppins', sans-serif;
+}
+.name-highlight{
+    color: darkmagenta;
+}
+h3{
+    margin-left: 30px;
+    padding-top: 100px;
+    font-size: 24px;
+}
+h1{
+    color: coral;
+    font-size: 38px;
+    margin-left: 30px;
+}
+p{
+    text-align: justify;
+    font-size: 14px;
+    margin-left: 30px;
+}
+.hire-btn{
+    background-image: linear-gradient(180deg,rgb(7, 110, 100), turquoise );
+    text-decoration: none;
+    padding: 5px 20px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+.hire-btn:hover{
+    background-color: turquoise;
+    color: black;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    height: 700px;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dawnload-btn{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, purple, pink);
+    padding: 8px 30px;
+    color: white;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+.dawnload-btn:hover{
+    background-color: sandybrown;
+    color: black;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.bio{
+    padding: 150px 0px 0px 0px;
+}
+.pera{
+    padding-bottom: 20px;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.latest-work h1{
+    text-align: center;
+    padding: 50px 0px;
+}
+.latest-work{
+    width:  80%;
+    height: 400px;
+    margin: 0px 10%;
+}
+.box{
+    width: 30%;
+    height: 300px;
+    margin: 5px 15px;
+    display: inline-block;
+}
+.image{
+    width: 100%;
+}
+.my-work{
+    text-align: center;
+    color: gold;
+}
+.client-section{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.peragraph-div{
+    padding-top: 50px;
+    text-align: center;
+}
+.text-1{
+    padding-top: 50px;
+    color: black;
+}
+.text-2{
+    padding: 5px 0px 0px 0px;
+}
+p.text-3{
+    text-align: center;
+    color: gray;
+    font-size: 12px;
+    margin-top: -20px;
+}
+p.text-4{
+    text-align: center;
+    padding: 20px 0px;
+    color: gray;
+}
+.gmail-div{
+    background-image: linear-gradient(180deg,turquoise, blueviolet );
+    width: 40%;
+    height: 80px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 20px 30px;
+    margin: auto;
+    color: white;
+}
+.gmail-div p{
+    text-align: center;
+}
+.contact-section{
+    width: 100%;
+    height: 300px;
+}
+.jogajog{
+    width: 40%;
+    height: 440px;
+    background-color: gray;
+    margin: auto;
+    border-radius: 5px;
+}
+.text-box{
+    height: 30px;
+    width: 87%;
+    margin: 5px 30px;
+}
+#t-area{
+    height: 120px;
+    width: 87%;
+    margin: 5px 30px;
+    outline: none;
+}
+form{
+    padding: 30px 0px;
+}
+#submit-btn{
+    padding: 5px 30px;
+    margin: 0px 200px;
+    background-color: tomato;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+#submit-btn:hover{
+    background-color: turquoise;
+    transition: 0.5s;
+    cursor: pointer;
+    outline: none;
+}
+.contact-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 30%;
+}
+h4{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 50px;
+}
+input:focus{
+    outline: none;
+}
+.footer{
+    background-color: gray;
+    height: 50px;
+}
+.footer p{
+    text-align: center;
+    color: honeydew;
+}
